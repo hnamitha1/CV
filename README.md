@@ -13,7 +13,7 @@ Constantly looking for ways to improve in everything I do. Love a challenge and 
 
 #### Problem Solving
 
-Ability to breakdown large problems into smaller components. Previous work in logistics, which required fast and accurate decision making to help solve problems. 
+Ability to breakdown large problems into smaller components. Previous work required fast and accurate decision making to help solve problems. 
 
 - Extracted user stories from specifications https://team-streetfood.herokuapp.com/
 
