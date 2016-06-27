@@ -44,11 +44,9 @@ Ability to breakdown large problems into smaller components. Previous work in lo
 - First Class with Distinction
 - Relevant courses: C++ Programming Laboratory, Microprocessors Laboratory
 
-#### Any other qualifications
 
 ## Experience
 
-**IBM India Pvt Ltd.** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**IBM India Pvt Ltd.** (June 2008 to Mar 2012)    
+*Application Engineer*  
+ 
