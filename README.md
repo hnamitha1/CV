@@ -1,4 +1,4 @@
-## Namitha
+## Namitha Hanumantharaya
 
 I am now an ambitious coder and passion for problem solving. Just completed a 3 month intensive web development course at Makers Academy, where I developed my ability to pick up new skills, learn and produce content at a very fast-pace. I am looking for a career in software development where I can utilise my skills and carry on learning.
 
@@ -43,7 +43,6 @@ Ability to breakdown large problems into smaller components. Previous work in lo
 - Information and Communication System Engineering
 - First Class with Distinction
 - Relevant courses: C++ Programming Laboratory, Microprocessors Laboratory
-- Other cool stuff
 
 #### Any other qualifications
 
