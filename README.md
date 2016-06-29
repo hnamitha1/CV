@@ -39,14 +39,14 @@ Ability to breakdown large problems into smaller components. Previous work requi
 
 #### Remote Courses (May 2014 - Jan 2016)
 
-###### Coursera
+###### Coursera (Online Courses From Top Universities)
 
-- Responsive Website Basics: Code with HTML, CSS, and JavaScript 
-- Introduction to HTML5
-- HTML, CSS and JavaScript
-- Introduction to CSS3
-- Web Application Architectures
-- Programming for Everybody (Python)
+- Responsive Website Basics: Code with HTML, CSS, and JavaScript from University of London & Goldsmiths, University of London
+- Introduction to HTML5 from University of Michigan 
+- HTML, CSS and JavaScript from  The Hong Kong University of Science and Technology
+- Introduction to CSS3 from  University of Michigan
+- Web Application Architectures from  University of New Mexico
+- Programming for Everybody (Python) from University of Michigan
 
 
 #### Visvesvaraya Technological University (Aug 2004 to Nov 2006)
