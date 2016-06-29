@@ -1,6 +1,6 @@
 ## Namitha Hanumantharaya
 
-I am now an ambitious coder and passion for problem solving. Just completed a 3 month intensive web development course at Makers Academy, where I developed my ability to pick up new skills, learn and produce content at a very fast-pace. I am looking for a career in software development where I can utilise my skills and carry on learning.
+I am an ambitious person with a passion for code and problem solving. I just completed a 3 month intensive web development course at Makers Academy Remote, where I developed my ability to pick up new skills, learn and produce content at a very fast-pace, whilst having a young child to look after. I am looking for a junior developer job where I can utilise my skills and carry on learning.
 
 ## Skills
 
