@@ -39,6 +39,8 @@ Ability to breakdown large problems into smaller components. Previous work requi
 
 #### Remote Courses (May 2014 - Jan 2016)
 
+###### Coursera
+
 - Responsive Website Basics: Code with HTML, CSS, and JavaScript 
 - Introduction to HTML5
 - HTML, CSS and JavaScript
