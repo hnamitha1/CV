@@ -1,6 +1,6 @@
 ## Namitha Hanumantharaya
 
-I am an ambitious person with a passion for code and problem solving. I just completed a 3 month intensive web development course at Makers Academy Remote, where I developed my ability to pick up new skills, learn and produce content at a very fast-pace, whilst having a young child to look after. I am looking for a junior developer job where I can utilise my skills and carry on learning.
+I am a former Application Engineer and have been a homemaker for the past 4 years whilst still continuing extending my knowledge with several online courses through out that time, the most recent one was the remote but extremely intense Makers Academy coding boot camp where I developed the ability to pick up new skills, learn and produce content at a very fast-pace, whilst having a young child to look after. I am looking for a junior web developer job where I can utilise my skills and carry on learning.
 
 ## Skills
 
