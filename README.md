@@ -37,6 +37,16 @@ Ability to breakdown large problems into smaller components. Previous work requi
 - Testing Packages: RSpec, Jasmine, Karma, Protractor
 - Independent learner and problem-solver
 
+####Remote Courses (May 2014 - Jan 2016)
+
+-Responsive Website Basics: Code with HTML, CSS, and JavaScript 
+-Introduction to HTML5
+-HTML, CSS and JavaScript
+-Introduction to CSS3
+-Web Application Architectures
+-Programming for Everybody (Python)
+
+
 #### Visvesvaraya Technological University (Aug 2004 to Nov 2006)
 
 - Master of Technology
@@ -49,4 +59,6 @@ Ability to breakdown large problems into smaller components. Previous work requi
 
 **IBM India Pvt Ltd.** (June 2008 to Mar 2012)    
 *Application Engineer*  
+
+
  
