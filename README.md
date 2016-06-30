@@ -15,20 +15,20 @@ I am a former Application Developer and have been a homemaker for the past four 
 
 #### Enthusiastic Learner
 
-I am constantly looking for ways to improve in everything I do. I love a challenge and am comfortable tackling new techniques that I have experience with previous job, like...
+I am constantly looking for ways to improve in everything I do. I love a challenge and I am comfortable tackling new techniques, some experiences I have had in Makers as well as previous jobs are...
 
 - Built multiple projects in various different languages throughout the Makers Academy course using TDD
-- At Makers Academy I worked in a team of four, we thought ourselves ES6 and Phaser  with the rewarding result of a 2D game [Makers Invaders](https://makers-invaders.herokuapp.com/) built in 12 days , using Agile methodology.
+- At Makers Academy I worked in a team of four, we thought ourselves ES6 and Phaser with the rewarding result of a 2D game [Makers Invaders](https://makers-invaders.herokuapp.com/) built in 12 days, using Agile methodology.
 
 #### Problem Solving
 
-- Ability to breakdown large problems into smaller components. I spent a lot of Makers Academy learning better ways to solve programming problems and debug errors by breaking down a problem to identify the key issue, then hypothesising about the root cause of this and methodically investigating to eliminate options and solve the problem. 
+- Ability to breakdown large problems into smaller components. I spent a lot of time at Makers Academy learning better ways to solve programming problems and debug errors by breaking down a problem to identify the key issue, then hypothesising about the root cause of this and methodically investigating to eliminate options and solve the problem. 
 - Previous work required fast and accurate decision making to help solve problems. I applied problem solving techniques to find efficient and effective solutions to these problems, and identify which issues would need to be escalated. By solving problems I was able to build strong relationships with my colleagues.
 - Pair programmed daily at Makers Academy to solve coding problems and teach each other the curriculum
 
 ## Education
 
-#### Makers Academy (Apr 2016 to Jul 2016)
+#### Makers Academy (Mar 2016 to Jun 2016)
 
 - Object-Orientated Programming, Model-View-Controller, Test Driven Development, SOLID Principles
 - Software Craftsmanship and Extreme Programming
@@ -36,7 +36,11 @@ I am constantly looking for ways to improve in everything I do. I love a challen
 - Technologies: Ruby, Sinatra, Rails, JavaScript, jQuery, AngularJS, Git/GitHub
 - Testing Packages: RSpec, Jasmine, Karma, Protractor
 
-#### Remote Courses (May 2014 - Jan 2016)
+#### Parental Leave (Feb 2015 - Feb 2016)
+
+#### Remote Courses (May 2012 - Feb 2015)
+
+#### Oracle Certified Associate, Java SE 7 Programmer (Dec 2012)
 
 ###### Coursera (Online Courses From Top Universities)
 
@@ -47,8 +51,6 @@ I am constantly looking for ways to improve in everything I do. I love a challen
 - Web Application Architectures from  University of New Mexico
 - Programming for Everybody (Python) from University of Michigan
 
-#### Oracle Certified Associate, Java SE 7 Programmer (Dec 2012)
-
 #### Visvesvaraya Technological University (Aug 2004 to Nov 2006)
 
 - Master of Technology
@@ -56,8 +58,8 @@ I am constantly looking for ways to improve in everything I do. I love a challen
 - First Class with Distinction
 - Relevant courses: C++ Programming Laboratory, Microprocessors Laboratory
 
-
 ## Experience
+
 - **IBM India Pvt Ltd.** - *Application Developer* - (Jan 2011 - Mar 2012, India - Bangalore), **Web Development Company.** - *Software Developer* - (June 2008 to Jan 2011, India - Bangalore)
     * Extensive experience with analysis design development implementation and managing different facets of project like new development enhancements and software upgrade
     * Excellent client interaction and intra personal skill.
