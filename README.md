@@ -36,9 +36,9 @@ I am constantly looking for ways to improve in everything I do. I love a challen
 - Technologies: Ruby, Sinatra, Rails, JavaScript, jQuery, AngularJS, Git/GitHub
 - Testing Packages: RSpec, Jasmine, Karma, Protractor
 
-#### Remote Courses (May 2014 - Jan 2016)
+#### Oracle Certified Associate, Java SE 7 Programmer (Dec 2012)
 
-###### Oracle Certified Associate, Java SE 7 Programmer (Dec 2012)
+#### Remote Courses (May 2014 - Jan 2016)
 
 ###### Coursera (Online Courses From Top Universities)
 
