@@ -13,7 +13,7 @@ I am a former Application Developer and have been a homemaker for the past four 
 
 ## Skills
 
-#### Fast Learner
+#### Enthusiastic Learner
 
 I am constantly looking for ways to improve in everything I do. I love a challenge and am comfortable tackling new techniques that I have no prior experience with.
 
