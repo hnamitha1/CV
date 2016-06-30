@@ -22,9 +22,9 @@ I am constantly looking for ways to improve in everything I do. I love a challen
 
 #### Problem Solving
 
-Ability to breakdown large problems into smaller components. I spent a lot of Makers Academy learning better ways to solve programming problems and debug errors by breaking down a problem to identify the key issue, then hypothesising about the root cause of this and methodically investigating to eliminate options and solve the problem. 
-Previous work required fast and accurate decision making to help solve problems. I applied problem solving techniques to find efficient and effective solutions to these problems, and identify which issues would need to be escalated. By solving problems I was able to build strong relationships with my colleagues.
-Pair programmed daily at Makers Academy to solve coding problems and teach each other the curriculum
+- Ability to breakdown large problems into smaller components. I spent a lot of Makers Academy learning better ways to solve programming problems and debug errors by breaking down a problem to identify the key issue, then hypothesising about the root cause of this and methodically investigating to eliminate options and solve the problem. 
+- Previous work required fast and accurate decision making to help solve problems. I applied problem solving techniques to find efficient and effective solutions to these problems, and identify which issues would need to be escalated. By solving problems I was able to build strong relationships with my colleagues.
+- Pair programmed daily at Makers Academy to solve coding problems and teach each other the curriculum
 
 ## Education
 
@@ -63,16 +63,16 @@ Pair programmed daily at Makers Academy to solve coding problems and teach each 
 **IBM India Pvt Ltd.** (Jan 2008 to Mar 2012)    
 Application Developer
 
-**Web Development Company. ** (June 2008 to Jan 2011)
+**Web Development Company.** (June 2008 to Jan 2011)
 Software Developer
 
-**Bharath Electronics Limited, Bangalore (Feb 2007 to Dec 2007)
+**Bharath Electronics Limited, Bangalore.** (Feb 2007 to Dec 2007)
 Project trainee
 
 ## Contact
 
-Email:namitha.h@gmail.com
-GitHub: https://github.com/hnamitha1
+- **Email:** namitha.h@gmail.com
+- **GitHub:** [https://github.com/hnamitha1](https://github.com/hnamitha1)
 
 
 
