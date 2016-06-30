@@ -18,7 +18,7 @@ I am a former Application Developer and have been a homemaker for the past four 
 I am constantly looking for ways to improve in everything I do. I love a challenge and am comfortable tackling new techniques that I have no prior experience with.
 
 - Built multiple projects in various different languages throughout the Makers Academy course using TDD
-- At Makers Academy I worked in a team with four other students Learnt ES6 and Phaser that we have not learnt before and built a 2D game in 12 days https://makers-invaders.herokuapp.com/, using Agile methodology. 
+- At Makers Academy I worked in a team with four other students learnt ES6 and Phaser that we have not learnt before and built a 2D game in 12 days https://makers-invaders.herokuapp.com/, using Agile methodology. 
 
 #### Problem Solving
 
@@ -68,8 +68,9 @@ I am constantly looking for ways to improve in everything I do. I love a challen
     * Able to handle response efficiently working in more than one application at the same time.
     * Proven ability to deliver high quality code on schedule with less defects.
     * Demonstrated strong analytical and reasoning ability to solve complex application problem.
+    * Recieved Best Performance Award for the year 2010 and 2011
  
-- **Bharath Electronics Limited.** - *Project trainee* - (Feb 2007 to Dec 2007, India - Bangalore)
+- **Bharath Electronics Limited.** - *Project trainee* - (Jun 2006 to Dec 2006, India - Bangalore)
     
 ## Contact
 
