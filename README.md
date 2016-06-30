@@ -40,7 +40,7 @@ I am constantly looking for ways to improve in everything I do. I love a challen
 
 #### Remote Courses (May 2012 - Feb 2015)
 
-#### Oracle Certified Associate, Java SE 7 Programmer (Dec 2012)
+###### Oracle Certified Associate, Java SE 7 Programmer (Dec 2012)
 
 ###### Coursera (Online Courses From Top Universities)
 
