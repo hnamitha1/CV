@@ -59,15 +59,9 @@ I am constantly looking for ways to improve in everything I do. I love a challen
 
 
 ## Experience
-
-**IBM India Pvt Ltd.** (Jan 2008 to Mar 2012)    
-- Application Developer
-
-**Web Development Company.** (June 2008 to Jan 2011)
-- Software Developer
-
-**Bharath Electronics Limited, Bangalore.** (Feb 2007 to Dec 2007)
-- Project trainee
+- **IBM India Pvt Ltd.** - *Application Developer* - (Jan 2008 - Mar 2012, India - Bangalore)
+- **Web Development Company.** - *Software Developer* (June 2008 to Jan 2011, India - Bangalore)
+- **Bharath Electronics Limited.** - *Project trainee* (Feb 2007 to Dec 2007, India - Bangalore)
 
 ## Contact
 
