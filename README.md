@@ -36,8 +36,6 @@ I am constantly looking for ways to improve in everything I do. I love a challen
 - Technologies: Ruby, Sinatra, Rails, JavaScript, jQuery, AngularJS, Git/GitHub
 - Testing Packages: RSpec, Jasmine, Karma, Protractor
 
-#### Oracle Certified Associate, Java SE 7 Programmer (Dec 2012)
-
 #### Remote Courses (May 2014 - Jan 2016)
 
 ###### Coursera (Online Courses From Top Universities)
@@ -49,6 +47,7 @@ I am constantly looking for ways to improve in everything I do. I love a challen
 - Web Application Architectures from  University of New Mexico
 - Programming for Everybody (Python) from University of Michigan
 
+#### Oracle Certified Associate, Java SE 7 Programmer (Dec 2012)
 
 #### Visvesvaraya Technological University (Aug 2004 to Nov 2006)
 
