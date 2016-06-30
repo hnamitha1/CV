@@ -1,21 +1,6 @@
 ## Namitha Hanumantharaya
 
-I am a former Application Engineer and have been a homemaker for the past 4 years whilst still continue extending my knowledge with several online courses through out that time, the most recent one was the remote but extremely intense Makers Academy coding boot camp where I developed the ability to pick up new skills, learn and produce content at a very fast-pace, whilst having a young child to look after. I am looking for a junior web developer job where I can utilise my skills and carry on learning.
-
-## Skills
-
-#### Fast Learner
-
-Constantly looking for ways to improve in everything I do. Love a challenge and tackling things I have had no prior experience with.
-
-- Built multiple projects in various different languages throughout the Makers Academy course
-- Learnt ES6 and Phaser and built a 2D game in 12 days https://makers-invaders.herokuapp.com/
-
-#### Problem Solving
-
-Ability to breakdown large problems into smaller components. Previous work required fast and accurate decision making to help solve problems. 
-
-- Extracted user stories from specifications https://team-streetfood.herokuapp.com/
+I am a former Application Developer and have been a homemaker for the past four years whilst continuing to extend my knowledge with several online courses throughout that time. I have recently graduated from the extremely intense Makers Academy Remote coding bootcamp where I developed the ability to pick up new skills, learn and produce content at a very fast-pace, whilst having a young child to look after. I am looking for a junior web developer job where I can utilise my skills and carry on learning.
 
 ### Code Examples
 
@@ -26,6 +11,21 @@ Ability to breakdown large problems into smaller components. Previous work requi
 | [Makers Invaders](https://github.com/hnamitha1/final-project-makers)               | Final Project: 2D game developed using Phaser and nodejs                                                          | ES6, Javascript, Protractor, Karma, Jasmine, Phaser, nodejs, browsify               |
 
 
+## Skills
+
+#### Fast Learner
+
+I am constantly looking for ways to improve in everything I do. I love a challenge and am comfortable tackling new techniques that I have no prior experience with.
+
+- Built multiple projects in various different languages throughout the Makers Academy course using TDD
+- At Makers Academy I worked in a team with four other students Learnt ES6 and Phaser that we have not learnt before and built a 2D game in 12 days https://makers-invaders.herokuapp.com/, using Agile methodology. 
+
+#### Problem Solving
+
+Ability to breakdown large problems into smaller components. I spent a lot of Makers Academy learning better ways to solve programming problems and debug errors by breaking down a problem to identify the key issue, then hypothesising about the root cause of this and methodically investigating to eliminate options and solve the problem. 
+Previous work required fast and accurate decision making to help solve problems. I applied problem solving techniques to find efficient and effective solutions to these problems, and identify which issues would need to be escalated. By solving problems I was able to build strong relationships with my colleagues.
+Pair programmed daily at Makers Academy to solve coding problems and teach each other the curriculum
+
 ## Education
 
 #### Makers Academy (Apr 2016 to Jul 2016)
@@ -35,9 +35,10 @@ Ability to breakdown large problems into smaller components. Previous work requi
 - Agile Methodologies
 - Technologies: Ruby, Sinatra, Rails, JavaScript, jQuery, AngularJS, Git/GitHub
 - Testing Packages: RSpec, Jasmine, Karma, Protractor
-- Independent learner and problem-solver
 
 #### Remote Courses (May 2014 - Jan 2016)
+
+###### Oracle Certified Associate, Java SE 7 Programmer (Dec 2012)
 
 ###### Coursera (Online Courses From Top Universities)
 
@@ -59,8 +60,20 @@ Ability to breakdown large problems into smaller components. Previous work requi
 
 ## Experience
 
-**IBM India Pvt Ltd.** (June 2008 to Mar 2012)    
-*Application Engineer*  
+**IBM India Pvt Ltd.** (Jan 2008 to Mar 2012)    
+Application Developer
+
+**Web Development Company. ** (June 2008 to Jan 2011)
+Software Developer
+
+**Bharath Electronics Limited, Bangalore (Feb 2007 to Dec 2007)
+Project trainee
+
+## Contact
+
+Email:namitha.h@gmail.com
+GitHub: https://github.com/hnamitha1
+
 
 
  
