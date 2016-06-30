@@ -15,10 +15,10 @@ I am a former Application Developer and have been a homemaker for the past four 
 
 #### Enthusiastic Learner
 
-I am constantly looking for ways to improve in everything I do. I love a challenge and am comfortable tackling new techniques that I have no prior experience with.
+I am constantly looking for ways to improve in everything I do. I love a challenge and am comfortable tackling new techniques that I have experience with previous job, like...
 
 - Built multiple projects in various different languages throughout the Makers Academy course using TDD
-- At Makers Academy I worked in a team with four other students learnt ES6 and Phaser that we have not learnt before and built a 2D game in 12 days https://makers-invaders.herokuapp.com/, using Agile methodology. 
+- At Makers Academy I worked in a team of four, we thought ourselves ES6 and Phaser  with the rewarding result of a 2D game [Makers Invaders](https://makers-invaders.herokuapp.com/) built in 12 days , using Agile methodology.
 
 #### Problem Solving
 
