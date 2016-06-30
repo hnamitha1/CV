@@ -59,10 +59,18 @@ I am constantly looking for ways to improve in everything I do. I love a challen
 
 
 ## Experience
-- **IBM India Pvt Ltd.** - *Application Developer* - (Jan 2008 - Mar 2012, India - Bangalore)
-- **Web Development Company.** - *Software Developer* (June 2008 to Jan 2011, India - Bangalore)
-- **Bharath Electronics Limited.** - *Project trainee* (Feb 2007 to Dec 2007, India - Bangalore)
-
+- **IBM India Pvt Ltd.** - *Application Developer* - (Jan 2008 - Mar 2012, India - Bangalore), **Web Development Company.** - *Software Developer* - (June 2008 to Jan 2011, India - Bangalore)
+    * Extensive experience with analysis design development implementation and managing different facets of project like new development enhancements and software upgrade
+    * Excellent client interaction and intra personal skill.
+    * Managed quality management system and MRB processes within the application
+    * Possess good telecom domain knowledge, created simulators for testing
+    * Exposed to Unix development, shell scripting, database and web technologies
+    * Able to handle response efficiently working in more than one application at the same time.
+    * Proven ability to deliver high quality code on schedule with less defects.
+    * Demonstrated strong analytical and reasoning ability to solve complex application problem.
+ 
+- **Bharath Electronics Limited.** - *Project trainee* - (Feb 2007 to Dec 2007, India - Bangalore)
+    
 ## Contact
 
 - **Email:** namitha.h@gmail.com
