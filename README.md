@@ -28,9 +28,9 @@ I am constantly looking for ways to improve in everything I do. I love a challen
  
 #### Team player
 
--Pair programmed daily at Makers Academy to solve coding problems and teach each other the curriculum.
--I think I am very patient, I keep myself calm and perform effectively under pressure and have good listening skills.
--I am very friendly and have always found the greatest rewards can be found working with others, as the perspectives and insights gained can be incredibly valuable. 
+- Pair programmed daily at Makers Academy to solve coding problems and teach each other the curriculum.
+- I think I am very patient, I keep myself calm and perform effectively under pressure and have good listening skills.
+- I am very friendly and have always found the greatest rewards can be found working with others, as the perspectives and insights gained can be incredibly valuable. 
 
 ## Experience
 
