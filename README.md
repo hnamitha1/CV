@@ -17,9 +17,9 @@ with online courses throughout that time. I have recently graduated from [Makers
 
 I am constantly looking for ways to improve in everything I do. I love a challenge and I am comfortable tackling new techniques, some experiences I have had in Makers as well as previous jobs are...
 
-- Built multiple projects in various different languages throughout the Makers Academy course using TDD.
+- Built multiple projects in various languages throughout the Makers Academy course using TDD.
 - At Makers Academy I worked in a team of four, we thought ourselves ES6 and Phaser with the rewarding result of a 2D game [Makers Invaders](https://makers-invaders.herokuapp.com/) built in 12 days, using Agile methodology.
-- At my previous work, the entire application developed using the language Pro *C (embedded SQL programming language used by Oracle Database management systems) that I learnt within the short amount of time. 
+- At my previous work, the entire application was developed using the language Pro *C (embedded SQL programming language used by Oracle Database management systems). I learnt  Pro *C in 3 weeks. In 3 weeks my knowledge of Pro *C was enough to effectively contribute to the project. 
 
 #### Problem Solving
 
@@ -29,7 +29,7 @@ I am constantly looking for ways to improve in everything I do. I love a challen
 #### Team player
 
 - Pair programmed daily at Makers Academy to solve coding problems and teach each other the curriculum.
-- I've shown myself to be extremely adaptable to the needs of the other members, able to give both positive and negative feedback and to help solve all kinds of problems.
+- I've shown myself to be extremely adaptable to the needs of the other members, able to give positive feedback and to help solve all kinds of problems.
 
 ## Experience
 
