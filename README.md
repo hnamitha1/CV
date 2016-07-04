@@ -8,7 +8,7 @@ with online courses throughout that time. I have recently graduated from [Makers
 | Project Name        | Description         | Technologies        |
 |-------------------------|-------------------------|-------------------------|
 | [Makers Invaders](https://github.com/hnamitha1/final-project-makers)               | Final Project: 2D game developed using Phaser and nodejs                                                          | ES6, Javascript, Protractor, Karma, Jasmine, Phaser, nodejs, browsify               |
-| [Street Food](https://github.com/hnamitha1/streetFood)| A social app where traders can post their availability in particular days | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Heroku |
+| [Street Food](https://github.com/hnamitha1/streetFood)| A social app for traders  | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Heroku |
 | [Instagram Clone](https://github.com/hnamitha1/Photogram) | A web 'clone' of instagram                                                        | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL                    |
 
 
