@@ -11,22 +11,38 @@ with online courses throughout that time. I have recently graduated from [Makers
 | [Street Food](https://github.com/hnamitha1/streetFood)| A social app for traders  | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Heroku |
 | [Instagram Clone](https://github.com/hnamitha1/Photogram) | A web 'clone' of instagram                                                        | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL                    |
 
-
-
 ## Skills
 
 #### Enthusiastic Learner
 
 I am constantly looking for ways to improve in everything I do. I love a challenge and I am comfortable tackling new techniques, some experiences I have had in Makers as well as previous jobs are...
 
-- Built multiple projects in various different languages throughout the Makers Academy course using TDD
+- Built multiple projects in various different languages throughout the Makers Academy course using TDD.
 - At Makers Academy I worked in a team of four, we thought ourselves ES6 and Phaser with the rewarding result of a 2D game [Makers Invaders](https://makers-invaders.herokuapp.com/) built in 12 days, using Agile methodology.
+- At my previous work, the entire application developed using the language Pro *C (embedded SQL programming language used by Oracle Database management systems) that I learnt within the short amount of time. 
 
 #### Problem Solving
 
 - Ability to breakdown large problems into smaller components. I spent a lot of time at Makers Academy learning better ways to solve programming problems and debug errors by breaking down a problem to identify the key issue, then hypothesising about the root cause of this and methodically investigating to eliminate options and solve the problem. 
 - Previous work required fast and accurate decision making to help solve problems. I applied problem solving techniques to find efficient and effective solutions to these problems, and identify which issues would need to be escalated. By solving problems I was able to build strong relationships with my colleagues.
-- Pair programmed daily at Makers Academy to solve coding problems and teach each other the curriculum
+ 
+#### Teamplayer
+
+-Pair programmed daily at Makers Academy to solve coding problems and teach each other the curriculum.
+-I think I am very patient, I keep myself calm and perform effectively under pressure and have good listening skills.
+-I am very friendly and have always found the greatest rewards can be found working with others, as the perspectives and insights gained can be incredibly valuable. 
+
+## Experience
+
+- **IBM India Pvt Ltd.** - *Application Developer* - (Jan 2011 - Mar 2012, India - Bangalore), **Web Development Company.** - *Software Developer* - (June 2008 to Jan 2011, India - Bangalore)
+    * Experienced with all the software development cycle, from conception to delivery
+    * Excellent client interaction and interpersonal skill.
+    * Exposed to Unix development, shell scripting, database and web technologies
+    * Able to handle response efficiently working in more than one application at the same time.
+    * Demonstrated strong analytical and reasoning ability to solve complex application problem.
+    * Received Best Performance Award for the year 2010 and 2011 because I managed to deliver high quality code on schedule with less defects.
+ 
+- **Bharath Electronics Limited.** - *Project trainee* - (Jun 2006 to Dec 2006, India - Bangalore)
 
 ## Education
 
@@ -36,9 +52,7 @@ I am constantly looking for ways to improve in everything I do. I love a challen
 - Software Craftsmanship and Extreme Programming
 - Agile Methodologies
 - Technologies: Ruby, Sinatra, Rails, JavaScript, jQuery, AngularJS, Git/GitHub
-- Testing Packages: RSpec, Jasmine, Karma, Protractor
-
-#### Parental Leave (Feb 2015 - Feb 2016)
+- Testing Packages: RSpec, Jasmine, Karma, Protractor.
 
 #### Remote Courses (May 2012 - Feb 2015)
 
@@ -60,20 +74,6 @@ I am constantly looking for ways to improve in everything I do. I love a challen
 - First Class with Distinction
 - Relevant courses: C++ Programming Laboratory, Microprocessors Laboratory
 
-## Experience
-
-- **IBM India Pvt Ltd.** - *Application Developer* - (Jan 2011 - Mar 2012, India - Bangalore), **Web Development Company.** - *Software Developer* - (June 2008 to Jan 2011, India - Bangalore)
-    * Extensive experience with analysis design development implementation and managing different facets of project like new development enhancements and software upgrade
-    * Excellent client interaction and intra personal skill.
-    * Managed quality management system and MRB processes within the application
-    * Possess good telecom domain knowledge, created simulators for testing
-    * Exposed to Unix development, shell scripting, database and web technologies
-    * Able to handle response efficiently working in more than one application at the same time.
-    * Proven ability to deliver high quality code on schedule with less defects.
-    * Demonstrated strong analytical and reasoning ability to solve complex application problem.
-    * Recieved Best Performance Award for the year 2010 and 2011
- 
-- **Bharath Electronics Limited.** - *Project trainee* - (Jun 2006 to Dec 2006, India - Bangalore)
     
 ## Contact
 
