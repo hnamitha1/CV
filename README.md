@@ -26,7 +26,7 @@ I am constantly looking for ways to improve in everything I do. I love a challen
 - Ability to breakdown large problems into smaller components. I spent a lot of time at Makers Academy learning better ways to solve programming problems and debug errors by breaking down a problem to identify the key issue, then hypothesising about the root cause of this and methodically investigating to eliminate options and solve the problem. 
 - Previous work required fast and accurate decision making to help solve problems. I applied problem solving techniques to find efficient and effective solutions to these problems, and identify which issues would need to be escalated. By solving problems I was able to build strong relationships with my colleagues.
  
-#### Teamplayer
+#### Team player
 
 -Pair programmed daily at Makers Academy to solve coding problems and teach each other the curriculum.
 -I think I am very patient, I keep myself calm and perform effectively under pressure and have good listening skills.
