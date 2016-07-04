@@ -33,7 +33,7 @@ I am constantly looking for ways to improve in everything I do. I love a challen
 
 ## Experience
 
-- **IBM India Pvt Ltd.** - *Application Developer* - (Jan 2011 - Mar 2012, India - Bangalore), **Web Development Company.** - *Software Developer* - (June 2008 to Jan 2011, India - Bangalore)
+- **IBM India Pvt Ltd.** - *Application Developer* - (June 2008 - Mar 2012, India - Bangalore)
     * Experienced with all the software development cycle, from conception to delivery
     * Excellent client interaction and interpersonal skill.
     * Exposed to Unix development, shell scripting, database and web technologies
