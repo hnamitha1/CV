@@ -2,6 +2,10 @@
 
 I am a former Application Developer and have been a homemaker for the past four years whilst continuing to extend my knowledge with several online courses throughout that time. I have recently graduated from the extremely intense Makers Academy Remote coding bootcamp where I developed the ability to pick up new skills, learn and produce content at a very fast-pace, whilst having a young child to look after. I am looking for a junior web developer job where I can utilise my skills and carry on learning.
 
+I am an Application Developer at heart. Due to family commiments I've taken a break from employment, however I have continued to learn
+with online courses throught that time. I have recently graduated from [Makers Academy](http://www.makersacademy.com/), a highly selective web developer bootcamp. At Makers I have learnt new skills at fast pace, worked in teams under an Agile methodology, and produce some exciting products.
+I am looking for a junior web developer job where I can apply and develop my skills.
+
 ### Code Examples
 
 | Project Name        | Description         | Technologies        |
