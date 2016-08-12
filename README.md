@@ -18,13 +18,13 @@ with online courses throughout that time. I have recently graduated from [Makers
 I am constantly looking for ways to improve in everything I do. I love a challenge and I am comfortable tackling new techniques, some experiences I have had in Makers as well as previous jobs are...
 
 - Built multiple projects in various languages throughout the Makers Academy course using TDD.
-- At Makers Academy I worked in a team of four, we thought ourselves ES6 and Phaser with the rewarding result of a 2D game [Makers Invaders](https://makers-invaders.herokuapp.com/) built in 12 days, using Agile methodology.
+- At Makers Academy I worked in a team of four, we taught ourselves ES6 and Phaser with the rewarding result of a 2D game [Makers Invaders](https://makers-invaders.herokuapp.com/) built in 12 days, using Agile methodology.
 - At my previous work, the entire application was developed using the language Pro *C (embedded SQL programming language used by Oracle Database management systems). I learnt  Pro *C in 3 weeks. In 3 weeks my knowledge of Pro *C was enough to effectively contribute to the project. 
 
 #### Problem Solving
 
 - Ability to breakdown large problems into smaller components. I spent a lot of time at Makers Academy learning better ways to solve programming problems and debug errors by breaking down a problem to identify the key issue, then hypothesising about the root cause of this and methodically investigating to eliminate options and solve the problem. 
-- Previous work required fast and accurate decision making to help solve problems. I applied problem solving techniques to find efficient and effective solutions to these problems, and identify which issues would need to be escalated. By solving problems I was able to build strong relationships with my colleagues.
+- Previous work required fast and accurate decision making to help solve problems. I applied problem solving techniques to find efficient and effective solutions to these problems, and identify which issues would need to be escalated. By following these techniques I was able to build strong relationships with my colleagues.
  
 #### Team player
 
