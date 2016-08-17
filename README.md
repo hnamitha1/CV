@@ -1,7 +1,10 @@
 ## Namitha Hanumantharaya
 
-I am an Application Developer at heart. Due to family commitments I've taken a break from employment, however I have continued to learn
-with online courses throughout that time. I have recently graduated from [Makers Academy](http://www.makersacademy.com/), a highly selective web developer bootcamp. At Makers I have learnt new skills at fast pace, worked in teams under an Agile methodology, and produce some exciting products. I am looking for a junior web developer job where I can apply and develop my skills.
+I am an Application Developer at heart. Before learning to code I did a technical degree including modules such as Information & Communication System Engineering. I also worked at IBM as an Application Developer, becoming fully familiar with the software development cycle.
+
+Due to family commitments I then took a break from work for a couple of years but I continued to learn with online courses throughout that time.
+
+I have recently graduated from [Makers Academy](http://www.makersacademy.com/), a highly selective web developer bootcamp. At Makers I have learnt new skills at fast pace, worked in teams under an Agile methodology, and produce some exciting products. I am looking for a junior web developer job where I can apply and develop my skills.
 
 ### Code Examples
 
